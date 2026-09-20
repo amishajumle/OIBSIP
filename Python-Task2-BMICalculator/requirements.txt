@@ -1,0 +1,1 @@
+matplotlic:\Users\AMISHA\OneDrive\Pictures\bmi -trend.png c:\Users\AMISHA\OneDrive\Pictures\dashboard.png c:\Users\AMISHA\OneDrive\Pictures\history.png
